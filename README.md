@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaroslav</h1>
 <h3 align="center">A full-stack developer from Vienna, Austria</h3>
 
-- 🔭 I’m currently working on [BikeMap](https://github.com/YaroslavVolenyuk/bikemap)
-
-- 🌱 I’m currently learning **PERN Stack** at [UpLeveld](https://github.com/upleveled).
-
 - 👨‍💻 All of my projects are available at [https://github.com/YaroslavVolenyuk](https://github.com/YaroslavVolenyuk)
 
 - 📫 How to reach me **volenyuk.yaroslav@gmail.com**
